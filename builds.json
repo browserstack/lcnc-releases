@@ -6,7 +6,7 @@
         "arm64": "https://github.com/browserstack/lcnc-releases/releases/download/1.0.6/Low-Code-Automation-darwin-arm64-1.0.6.dmg"
       },
       "windows": {
-        "x64": "https://github.com/browserstack/lcnc-releases/releases/download/1.0.6/BrowserStack.Low.Code.Automation-1.0.6.Setup-Signed.exe"
+        "x64": "https://github.com/browserstack/lcnc-releases/releases/download/1.0.6/BrowserStack.Low.Code.Automation-1.0.6.exe"
       }
     }
   }
