@@ -2,11 +2,11 @@
   "message": {
     "data": {
       "darwin": {
-        "x64": "https://github.com/browserstack/lcnc-releases/releases/download/2.17.0/Low-Code-Automation-darwin-x64-2.17.0.dmg",
-        "arm64": "https://github.com/browserstack/lcnc-releases/releases/download/2.17.0/Low-Code-Automation-darwin-arm64-2.17.0.dmg"
+        "x64": "https://github.com/browserstack/lcnc-releases/releases/download/2.18.0/Low-Code-Automation-darwin-x64-2.18.0.dmg",
+        "arm64": "https://github.com/browserstack/lcnc-releases/releases/download/2.18.0/Low-Code-Automation-darwin-arm64-2.18.0.dmg"
       },
       "windows": {
-        "x64": "https://github.com/browserstack/lcnc-releases/releases/download/2.17.0/BrowserStack.Low.Code.Automation-2.17.0.exe"
+        "x64": "https://github.com/browserstack/lcnc-releases/releases/download/2.18.0/BrowserStack.Low.Code.Automation-2.18.0.exe"
       }
     }
   }
